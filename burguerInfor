@@ -1,0 +1,29 @@
+*vue create .  :terminal se ja criou a pasta com o nome correto apenas isso ja cria o projeto
+no terminal aparece se quer criar diretorio atual Y sim >  manually select features > chose vue version 2 > babel > router
+> vuex > history mode do vuerouter Y > configure files um arquivo individual de configuração pra nao jogar tudo no package json
+> nao salvo como preset para futuros projetos nesse caso apenas enter
+
+
+
+
+
+
+* npm install : caso pegou de algum lugar rodar as dependencias de repositorio ou proprio
+* npm run serve   : rodar o projeto
+*cd 1projetos-estudos\20vuejs3\make-you-burguer
+
+
+
+---------------backend------------------------
+
+* npm install json-server   : instalar terminal projeto pacote q serve como api > coloca no package.json "backend": "json-server --watch db/db.json" para ativar esse comando coloca no package.json e monitorar db.json da pasta db q é backend do projeto dados do projeto em json digamos
+
+* npm run backend   : para rodar o backend feito em json na pasta arquivo db aparecendo assim resources rotas do sistema ex: https://localhost:3000/ingredientes, https://localhost:3000/status : dados pegar api e outro https://localhost:3000/burgers : banco de dados > colocando no browser essas url´s aparecem
+
+
+
+<!---->
+/**/
+
+cd projetosCode\make-burguer-vue3\burguer
+cd 1projetos-estudos\20vuejs3\make-you-burguer
